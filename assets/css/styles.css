@@ -1,0 +1,24 @@
+.navbar.navbar-expand-lg.bg-warning {
+  background-color: rgb(26, 216, 203) !important;
+}
+
+.fa-brands.fa-linkedin.fa-2xl:hover {
+  color: gray;
+}
+
+.fa-brands.fa-github.fa-2xl:hover {
+  color: gray;
+}
+
+.fa-solid.fa-user.fa-2xl:hover {
+  color: gray;
+}
+
+.list-group {
+  --bs-list-group-bg: transparent;
+  --bs-list-group-border-color: transparent;
+}
+
+.list-group-item {
+  color: white;
+}
