@@ -3,15 +3,15 @@
 }
 
 .fa-brands.fa-linkedin.fa-2xl:hover {
-  color: gray;
+  color: rgb(13, 9, 237);
 }
 
 .fa-brands.fa-github.fa-2xl:hover {
-  color: gray;
+  color: rgb(11, 11, 11);
 }
 
 .fa-solid.fa-user.fa-2xl:hover {
-  color: gray;
+  color: rgb(108, 106, 106);
 }
 
 .list-group {
