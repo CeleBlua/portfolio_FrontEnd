@@ -1,3 +1,10 @@
+body {
+  background-image: url(../img/background_body_celeste.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 100%;
+}
+
 .navbar.navbar-expand-lg.bg-warning {
   background-color: rgb(26, 216, 203) !important;
 }
@@ -21,4 +28,9 @@
 
 .list-group-item {
   color: white;
+}
+
+.banner {
+  max-width: 100%;
+  margin-bottom: -30%;
 }
