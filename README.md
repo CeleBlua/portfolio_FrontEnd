@@ -20,3 +20,4 @@ NOTA: CORREGIR EL MODO RESPONSIVE --> LOS BOTONES DE LAS REDES QUEDAN EN CUALQUI
 . Posible imagen de background_body: https://www.freepik.es/fotos-vectores-gratis/fondo-celeste
 Nota: tuve que cambiar el margin porque cuando lo achicaba se veía de una manera y al 100% se veía de otra. 
 REVISAR EL DISEÑO RESPONSIVE --> FLEX de Bootstrap
+Creo que le voy a sacar el carrousel...

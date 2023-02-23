@@ -1,12 +1,12 @@
 body {
   background-image: url(../img/background_body_celeste.jpg);
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
-  min-height: 100%;
 }
 
 .navbar.navbar-expand-lg.bg-warning {
   background-color: rgb(26, 216, 203) !important;
+  height: 20vh;
 }
 
 .fa-brands.fa-linkedin.fa-2xl:hover {
@@ -32,5 +32,33 @@ body {
 
 .banner {
   max-width: 100%;
-  margin-bottom: -30%;
+  max-width: 100%;
+  margin-bottom: auto;
+  overflow: hidden;
+  border: none;
+  height: 40vh;
+}
+
+.div {
+  text-align: center;
+}
+
+.row {
+  padding: 20px;
+}
+
+/* Estilo de foto de perfil */
+
+/* Estilo de nombre */
+#nombre {
+  font-weight: bold;
+  margin-top: 15%;
+}
+
+#acerca_de_mi {
+  margin-top: 2%;
+}
+
+#titulo_acerca_de_mi {
+  font-weight: bold;
 }

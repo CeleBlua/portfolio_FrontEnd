@@ -1,0 +1,69 @@
+ <div class="carousel-item banner">
+          <img
+            src="assets/img/paisaje_cerro7colores.jpg"
+            class="d-block w-100"
+            alt="paisaje_cerro7colores"
+          />
+        </div>
+        <div class="carousel-item banner">
+          <img
+            src="assets/img/paisaje_puertopiramides.jpg"
+            class="d-block w-100"
+            alt="paisaje_puertopiramides"
+          />
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev"
+        type="button"
+        data-bs-target="#carouselExample"
+        data-bs-slide="prev"
+      >
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button
+        class="carousel-control-next"
+        type="button"
+        data-bs-target="#carouselExample"
+        data-bs-slide="next"
+      >
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+
+
+      <img
+            src="assets/img/paisaje_lagopuelo.jpg"
+            class="d-block w-100"
+            alt="paisaje_lagopuelo"
+          />
+
+
+          <div id="acerca_de_mi" class="about">
+            <div class="container text-center">
+              <div class="row">
+                <div class="col-3" id="foto_perfil">
+                  <img
+                    src="/assets/img/foto_perfil.jpg"
+                    alt="foto_perfil"
+                    class="rounded-circle w-50"
+                  />
+                  <h3>María Celeste Grimolizzi</h3>
+                </div>
+                <div class="col-6 mt-4">
+                  <h3>Acerca de mi</h3>
+                  <h5>
+                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur
+                    dicta natus eos iusto in quae alias? Ipsum obcaecati quam
+                    temporibus velit? Aliquam nemo alias doloremque tempore eius
+                    deleniti eaque quod?
+                  </h5>
+                </div>
+                <div class="col-3">
+                  <!-- acá me falta algo creo -->
+                </div>
+              </div>
+            </div>
+          </div>
+      
